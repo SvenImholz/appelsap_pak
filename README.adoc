@@ -1,0 +1,3 @@
+= Voorbeeld website over appelsap
+
+Dit is een website met voorbeeldcode voor studenten van Firda Sneek die P1.2 volgen.
