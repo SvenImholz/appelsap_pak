@@ -10,8 +10,8 @@
 <body>
     <header>
         <nav>
-            <a href="/src/les2_require">Pet</a>
-            <a href="/src/les2_require/food">Food</a>
+            <a href="/src/les2">Pet</a>
+            <a href="/src/les2/food">Food</a>
         </nav>
     </header>
     <main>
