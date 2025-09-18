@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 
 <head>
     <meta charset="UTF-8">
@@ -14,8 +14,8 @@
 
 <body>
     <nav>
-        <a href="/src/les1">Les 1</a>
-        <a href="/src/les2_require">Les 2: require en require_once statement</a>
+        <a href="/src/les1">Les 1: Voorbeeld met variabelen</a>
+        <a href="/src/les2">Les 2: require en require_once statement</a>
     </nav>
 </body>
 
