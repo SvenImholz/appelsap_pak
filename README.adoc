@@ -1,3 +1,5 @@
-= Voorbeeld website over appelsap
+= Voorbeeldcode voor P1.2
 
 Dit is een website met voorbeeldcode voor studenten van Firda Sneek die P1.2 volgen.
+
+Als je de link:index.php[index.php] opent in je browser zie je een overzicht van alle voorbeelden die ik in lessen heb gegeven.
